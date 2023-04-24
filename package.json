@@ -1,0 +1,17 @@
+{
+  "name": "chatcord",
+  "version": "1.0.0",
+  "description": "Realtime chatapp with rooms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Divya MOgaveera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.6.1"
+  }
+}
