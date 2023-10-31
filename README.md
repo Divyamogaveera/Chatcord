@@ -1,7 +1,8 @@
 # Chatcord
 Output
 <h1>Home</h1>
-![image](https://github.com/Divyamogaveera/Chatcord/assets/85350201/65be4133-fff0-4218-9c85-9f56bb9384e7)
+
+![image](https://github.com/Divyamogaveera/Chatcord/assets/85350201/129f0648-e620-4a5a-96a4-1be736500c01)
 
 After joining to chat room
 
